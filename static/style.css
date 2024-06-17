@@ -1,6 +1,6 @@
 /* static/style.css */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia;
     background-color: #f4f4f4;
 }
 
@@ -38,4 +38,10 @@ body {
 
 .footer {
     margin-top: 20px;
+}
+
+.card-body img.img-fluid.mb-2 {
+    max-width: 80px;
+    height: auto;
+    margin: 10px 0;
 }
